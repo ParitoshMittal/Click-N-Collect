@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "489275851127",
+    "project_id": "click-n-collect-6d63f",
+    "storage_bucket": "click-n-collect-6d63f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489275851127:android:7907810142a58fab6b2172",
+        "android_client_info": {
+          "package_name": "com.example.click_n_collect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489275851127-ok1ndv7dtm1kbj9303eltgl2p85epkf0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNVrR4M2Pw72tYntnex32xfipWcEUy9YY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489275851127-ok1ndv7dtm1kbj9303eltgl2p85epkf0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
